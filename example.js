@@ -1,6 +1,3 @@
-
 function example (name) {
-    return ('Relax' + {name})
+    return ('Relax ' + name)
 };
-
- 
