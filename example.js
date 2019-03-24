@@ -1,7 +1,6 @@
-function sumNumber(a, b){
-    return a + b;
-}
 
-console.log(sumNumber(5, 6));
+function example (name) {
+    return ('Relax' + {name})
+};
 
-console.log(sumNumber(8, 2))
+ 
