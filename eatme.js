@@ -1,4 +1,4 @@
-function Eatme() {
-    return('No food for you')
-}
-console.log(Eatme);
+function Eatme(name) {
+    return 'No food for you '+ {name}.
+};
+console.log(Eatme(Johanna));
